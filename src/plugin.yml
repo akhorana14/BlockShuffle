@@ -1,0 +1,12 @@
+name: BlockSwap
+version: 1.0.0
+author: xSmart
+description: BlockSwap for 3 People!
+main: me.xsmart.blockswap.BlockSwap
+api-version: 1.13
+
+commands:
+    enableblockswap:
+        description: Enabled The Block Swap Plugin!
+        usage: /enableblockswap
+
